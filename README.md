@@ -1,5 +1,7 @@
-<h1 style="color:red;" align="center"> HELLO THERE!!</h1>
-<p> My name is Radifa!! Nice to meet you!! </p>
+<h1 align="center">
+  <font color="#ff0000"><strong><b>HELLO THERE!! </b></strong> </font>
+</h1>
+<p><strong><b> My name is Radifa!! Nice to meet you!!</b> </strong> </p>
 <p>- 🌱 I’m currently learning at Gadjah Mada University</p>
 <p>- 📫 How to reach me: don't</p>
 <p>- 😄 Pronouns: he/him</p>
