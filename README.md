@@ -1,4 +1,4 @@
-<p style="color:red;" style="text-align:center;"> HELLO THERE!!
+<p style="color:red;" style="text-align:center;"> HELLO THERE!!<p>
 <p> My name is Radifa!! Nice to meet you!! <p>
 <p>- 🌱 I’m currently learning at Gadjah Mada University<p>
 <p>- 📫 How to reach me: don't<p>
