@@ -13,6 +13,6 @@
 <p>.</p>
 <p> Kurisu Makise <3<br/> Nice to meet you !! </p>
 
-<h3 align="center" width="50" height="20"><em> Connect with me </em>👇👇👇 </h3>
+<h3 align="center" width="50" height="20"><em> Contact me </em>👇👇👇 </h3>
 <a href="http://discordapp.com/users/454105753888882698" target="blank"><div align="center"><img src="https://www.nesabamedia.com/wp-content/uploads/2019/09/Discord-Logo-1.png" div align="center" weight="30" width="60"> 
 
