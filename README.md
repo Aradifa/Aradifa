@@ -3,9 +3,12 @@
 </h1>
 <h2 align="center"><b>This <sub>is</sub> my <sub>profile</sub>🙌</b></h2>
 
+<p align="center">==================================================================================</p>
+<div align="center"><img src="https://cdn.dribbble.com/users/975894/screenshots/4958551/hello_lettered3.gif">
+<div align="left">
+<p align="center">==================================================================================</p>
 <p><strong><b> My name is <mark> Radifa</mark>!!</b> </strong> I'm 19 years old (2023) and living in <b color="red">Indonesia</b> right now!! </p>
-
-<table>
+  <table>
   <tr>
     <td><p>- 🌱 I’m currently learning at Gadjah Mada University</p></td>
   </tr>
@@ -21,7 +24,9 @@
 </table>
 
 
-<p> I like playing chess ♟ and reading comics 🌃
+<p> I like playing chess ♟ and reading comics 🌃<br/> Wanna know more about me?</p>
+
+ask here: **radifabalavantam@gmail.com** 
 <p> .  </p>
 <p> . </p>
 <p>.</p>
