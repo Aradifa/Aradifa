@@ -1,11 +1,25 @@
 <h1 align="center">
   <font color="#ff0000"><strong><b>HELLO THERE!! </b></strong> </font>
 </h1>
-<h2 align="center">This <sub>is</sub> my <sub>profile</sub>🙌</h2>
+<h2 align="center"><b>This <sub>is</sub> my <sub>profile</sub>🙌</b></h2>
+
 <p><strong><b> My name is <mark> Radifa</mark>!!</b> </strong> I'm 19 years old (2023) and living in <b color="red">Indonesia</b> right now!! </p>
-<p>- 🌱 I’m currently learning at Gadjah Mada University</p>
-<p>- 📫 How to reach me: don't</p>
-<p>- 😄 Pronouns: he/him </p>
+
+<table>
+  <tr>
+    <td><p>- 🌱 I’m currently learning at Gadjah Mada University</p></td>
+  </tr>
+  <tr>
+    <td> <p>- 🤖 I’m studying Geoscience</p></td>
+  </tr>
+  <tr>
+    <td><p>- 📫 How to reach me: don't</p></td>
+  </tr>
+  <tr>
+    <td><p>- 😄 Pronouns: he/him </p></td>
+  </tr>
+</table>
+
 
 <p> I like playing chess ♟ and reading comics 🌃
 <p> .  </p>
