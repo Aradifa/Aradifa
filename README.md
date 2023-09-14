@@ -1,7 +1,7 @@
 <h1 align="center">
   <font color="#ff0000"><strong><b>HELLO THERE!! </b></strong> </font>
 </h1>
-<h2 align="center"><b>This <sub>is</sub> my <sub>profile</sub>🙌</b></h2>
+<h2 align="center"><b>Welcome <sub>to</sub> my <sub>profile</sub>🙌</b></h2>
 
 <p align="center">==================================================================================</p>
 <div align="center"><img src="https://cdn.dribbble.com/users/975894/screenshots/4958551/hello_lettered3.gif">
